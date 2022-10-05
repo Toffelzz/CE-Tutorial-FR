@@ -1,4 +1,4 @@
-# Bienvenue sur le tutoriel de Cheat Engine (Your CE Version)
+# Bienvenue sur le tutoriel de Cheat Engine (Votre version de CE)
 - Ce tutoriel vous apprendra les bases de la triche dans les jeux vidéo. Il vous montrera également  
 les aspects fondamentaux de l'utilisation de Cheat Engine (ou CE en abrégé).  
 Suivez les étapes ci-dessous pour commencer.
